@@ -2,7 +2,7 @@
 
 web3.py based dapp
 
-#### Steps:
+
 
 1. Deploy your contract on your preferred network(update `RPC_URL` accordingly) and get the contract address.
 
